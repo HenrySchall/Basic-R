@@ -1,8 +1,8 @@
 ## Introdução
 
-Download Stata: https://www.dropbox.com/scl/fo/8rxhtmsfzg14nw3b8sfru/h?rlkey=6pxmanwu7btncfkv9sngffro3&dl=0
-Download R: https://cran.r-project.org/bin/windows/base/
-Download Python: https://www.python.org/downloads/
+- Download Stata: https://www.dropbox.com/scl/fo/8rxhtmsfzg14nw3b8sfru/h?rlkey=6pxmanwu7btncfkv9sngffro3&dl=0
+- Download R: https://cran.r-project.org/bin/windows/base/
+- Download Python: https://www.python.org/downloads/
 
 ### Configuração R para uso no Visual Studio Code 
 
