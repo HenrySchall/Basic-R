@@ -159,3 +159,14 @@ onehotencoder_census = ColumnTransformer(transformers=[('OneHot', OneHotEncoder(
 X_census = onehotencoder_census.fit_transform(X_census).toarray()
 X_census
 X_census.shape
+
+# Limpando colunas não necessárias
+dataset.drop(labels=['RL Vale'], axis=1, inplace=True)
+dataset.drop(labels=['RL Itau'], axis=1, inplace=True)
+dataset.drop(labels=['RL Wege'], axis=1, inplace=True)
+dataset.drop(labels=['RS Vale'], axis=1, inplace=True)
+dataset.drop(labels=['RS Itau'], axis=1, inplace=True)
+dataset.drop(labels=['RS Wege'], axis=1, inplace=True)
+
+dataset
+dataset.describe()
