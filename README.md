@@ -1,8 +1,5 @@
 ## Introdução
-
-- Download Stata: https://mega.nz/folder/XipnmARC#atpQBsIsuvkres-BGC_pVQ
 - Download R: https://cran.r-project.org/bin/windows/base/
-- Download Python: https://www.python.org/downloads/
 
 ### Configuração R para uso no Visual Studio Code 
 
