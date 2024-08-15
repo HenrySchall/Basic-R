@@ -1,6 +1,6 @@
 ## Introdução
 
-- Download Stata: https://www.dropbox.com/scl/fo/8rxhtmsfzg14nw3b8sfru/h?rlkey=6pxmanwu7btncfkv9sngffro3&dl=0
+- Download Stata: https://mega.nz/folder/XipnmARC#atpQBsIsuvkres-BGC_pVQ
 - Download R: https://cran.r-project.org/bin/windows/base/
 - Download Python: https://www.python.org/downloads/
 
