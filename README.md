@@ -1,6 +1,7 @@
 ## Introdução
 - Download R: https://cran.r-project.org/bin/windows/base/
 - Comunidade: https://rpubs.com/
+- Leitura: https://medium.com/@henrique.schall
 
 > R é uma linguagem de programação de código aberto direcionada para a computação estatística, sendo amplamente utilizado em análise de dados. A linguagem foi criada por Ross Ihaka e Robert Gentleman na Universidade de Auckland, Nova Zelândia, no início dos anos 1990. Eles tinha como motivação o desejo de desenvolver uma linguagem de programação que fosse poderosa para análise estatística e ao mesmo tempo acessível e flexível, como uma alternativa gratuita à linguagem S
 
@@ -26,6 +27,3 @@ Qualitativos (atributos não numéricos).
 Quantitativos (atributos numéricas).
 - Discreto: valores finitos ou enumeráveis (quantidade de pessoas numa sala, número de carros em um estacionamento…)
 - Contínuo: infinitos valores possíveis num intervalo (renda, tempo, altura…).
-
-### Revisão Estatatística e Econometrica
-- https://medium.com/@henrique.schall/os-principais-t%C3%B3picos-para-uma-an%C3%A1lise-econ%C3%B4mica-de-dados-consistente-3ace08e7776f
